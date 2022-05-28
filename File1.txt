@@ -1,4 +1,5 @@
-testing file update
+
+esting file update
 untesting file
 commit test
 test
@@ -7,3 +8,9 @@ test
 Add line
 new branch line
 new line for GUI
+
+
+
+
+Hello world ^^ Nice to meet you ^O
+
